@@ -36,7 +36,15 @@ Option 1 for Capstone project
    Users will be avid readers, book club members, and anyone else trying to keep track of their book interests.
 
 6. What data do you plan on using? How are you planning on collecting your data? You may not have picked your actual API yet, which is fine, just outline what kind of data you would like it to     contain. You are welcome to create your own API and populate it with data.
-   I'm going to collect user, book collections, and book data. 
+   I'm going to collect user, book collections, and book data.
+
+
+   Link to working DB diagram
+   https://dbdiagram.io/d/capstone-67d2287875d75cc844e129ae
+
+   User needs to be able to create an account, log in, and log out. They should also be able to update some user information, but not all.
+
+   There needs to be the ability to search the API, add books to a user collection, add notes to books and book collection. Users should be able to add, update, and delete notes from books and collections. Books should also be able to added and deleted from collections.
 
    
    
